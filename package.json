@@ -1,0 +1,21 @@
+{
+  "name": "sex-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.23",
+    "discord.js": "^13.8.1",
+    "express": "^4.18.1",
+    "random-reddit": "^2.0.3",
+    "reddit-fetch": "^1.5.1",
+    "undici": "^5.5.1",
+    "wokcommands": "^1.5.3"
+  }
+}
